@@ -4,12 +4,12 @@
 #include <HardwareSerial.h>
 
 // ==== WiFi Credentials ====
-const char* ssid = "Airtel_king_8747";
-const char* password = "Kings@10";
+const char* ssid = "YOUR WIFI SSID";
+const char* password = "YOUR WIFI PASSWORD";
 
 // ==== Telegram Bot Info ====
-String botToken = "8412873708:AAEMy3tNurddKOKwqZ_hGc5E0PE3chjMmKw";
-String chatId   = "6367854937";
+String botToken = "YOUR TOKEN";
+String chatId   = "YOUR CHAT ID";
 
 // ==== GPS + SOS Pin ====
 HardwareSerial gpsSerial(1);  // UART1
