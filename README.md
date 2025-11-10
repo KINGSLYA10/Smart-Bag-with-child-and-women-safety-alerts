@@ -105,15 +105,10 @@ ESP32 is the central controller which reads data from RFID, GPS, and Acceleromet
 
 ---
 
-## 📚 References
-- IEEE & Scopus-indexed papers on child tracking and women safety technology
-
----
-
 ## 👨‍💻 Developers
-**Team XYZ** — Smart IoT Safety Solutions  
-Guided by: *[Guide Name]*  
-Department of Computer Science / Engineering  
+Kingsly A, Thameemul Ansari M, Madhavan A
+Guided by: C Gomathi 
+Department of Artificial Intelligence and Data Science  
 
 ---
 
