@@ -63,3 +63,58 @@ ESP32 is the central controller which reads data from RFID, GPS, and Acceleromet
 1️⃣ Create a bot using **@BotFather**  
 2️⃣ Copy the **Bot Token** and paste it into code  
 3️⃣ Get your **Chat ID** using:  
+4️⃣ Replace in code and upload to ESP32
+
+---
+
+## ⚙️ How to Run
+
+1️⃣ Assemble hardware with ESP32  
+2️⃣ Flash the Arduino code  
+3️⃣ Power the smart bag using Li-ion battery  
+4️⃣ Connect to Wi-Fi  
+5️⃣ Telegram alerts will begin automatically
+
+---
+
+## ✅ Output Messages
+📍 Location Tracking  
+🚨 SOS Alerts  
+✅ Arrived at School  
+🏫 Left School  
+⚠️ Bag Thrown / Tamper Alert  
+
+---
+
+## 🌍 SDG Mapping
+| SDG Goal | Contribution |
+|---------|--------------|
+| SDG 3 – Good Health & Well-Being | Emergency safety & quick rescue |
+| SDG 5 – Gender Equality | Women empowerment & protection |
+| SDG 11 – Safe Cities & Communities | Secure public movement |
+| SDG 16 – Peace & Justice | Crime prevention support |
+
+---
+
+## 📌 Future Enhancements
+- Dedicated Android/iOS Mobile App
+- Camera-based evidence capture
+- AI-based risk prediction
+- Voice-activated emergency alerts
+- Solar-powered charging system
+
+---
+
+## 📚 References
+- IEEE & Scopus-indexed papers on child tracking and women safety technology
+
+---
+
+## 👨‍💻 Developers
+**Team XYZ** — Smart IoT Safety Solutions  
+Guided by: *[Guide Name]*  
+Department of Computer Science / Engineering  
+
+---
+
+### ⭐ If you like this project, consider giving it a star on GitHub! ⭐
